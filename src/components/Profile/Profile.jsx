@@ -5,7 +5,6 @@ import { Container } from "./Profile.styles";
 
 export const Profile = ({ profile }) => {
   const { handleFollow } = usePerfil();
-
   return (
     <Container>
       <p>{profile.nome}</p>
