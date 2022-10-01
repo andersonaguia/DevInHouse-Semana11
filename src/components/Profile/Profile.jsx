@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import { usePerfil } from "../../contexts";
+import { usePerfil } from "../../contexts/Perfil";
 import { Button } from "../Button";
 import { Container } from "./Profile.styles";
 
